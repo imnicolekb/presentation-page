@@ -1,4 +1,6 @@
 # presentation-page
+<img width="1767" height="836" alt="image" src="https://github.com/user-attachments/assets/f6ab4e5c-9152-4440-9dc8-d58897c5677a" />
+
 # Presentation
 
 This repository contains the code for a simple, static presentation built using vanilla HTML and CSS.
